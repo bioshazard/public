@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Sat, 25 Jan 2025 21:32:10 -0600</dateCreated>
+  </head>
+  <body>
+    <outline text="Uncategorized">
+      <outline text="FreshRSS releases" type="rss" xmlUrl="https://github.com/FreshRSS/FreshRSS/releases.atom" htmlUrl="https://github.com/FreshRSS/FreshRSS/" description="FreshRSS releases @ GitHub"/>
+    </outline>
+    <outline text="YT">
+      <outline text="Dungeon Soup" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKTwTio3tOv713CnIcxyLhA" htmlUrl="https://www.youtube.com/channel/UCKTwTio3tOv713CnIcxyLhA"/>
+      <outline text="One Punch Man - Plot Armor" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL6m4zbYFe2t0nA9lXPYZHV1pa4ndjq3ci" htmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL6m4zbYFe2t0nA9lXPYZHV1pa4ndjq3ci"/>
+      <outline text="The Last Theory" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClX6kNQ9Kt3LL6kLd4hC7sQ" htmlUrl="https://www.youtube.com/channel/UClX6kNQ9Kt3LL6kLd4hC7sQ"/>
+      <outline text="Veritasium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA" htmlUrl="https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"/>
+    </outline>
+  </body>
+</opml>
